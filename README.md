@@ -1,12 +1,12 @@
-# Yuge Course Motion · 雨哥动效课程工具
+# Tianyu Course Motion · 天雨动效课程工具
 
 **把讲解、字幕和 SVG 动画放到同一条时间线上。** 一个可以随时跳转的竖屏课程播放器，附一讲完整中文技术示例。
 
 **A small, seekable SVG lesson player with synchronized narration and captions.** Open-source player and export tools, with one separately licensed Chinese lesson example.
 
-[在线体验 / Live demo](https://tianyuchuanmei2026.github.io/yuge-course-motion/) · [完整 AI 通识课](https://tianyuxuezhang.com/academy/courses/ai-literacy?utm_source=github&utm_medium=readme&utm_campaign=course_motion) · [授权范围 / Licensing](LICENSE)
+[在线体验 / Live demo](https://tianyuchuanmei2026.github.io/tianyu-course-motion/) · [完整 AI 通识课](https://tianyuxuezhang.com/academy/courses/ai-literacy?utm_source=github&utm_medium=readme&utm_campaign=course_motion) · [授权范围 / Licensing](LICENSE)
 
-<a href="https://tianyuchuanmei2026.github.io/yuge-course-motion/"><img src="examples/lesson-01/cover.png" width="280" alt="第一讲：什么是AI，什么是自动化；闹钟、地图与客服三个例子"></a>
+<a href="https://tianyuchuanmei2026.github.io/tianyu-course-motion/"><img src="examples/lesson-01/cover.png" width="280" alt="第一讲：什么是AI，什么是自动化；闹钟、地图与客服三个例子"></a>
 
 ## 先试一讲
 
@@ -25,8 +25,8 @@
 需要 Node.js **22.12 或更新版本**。预览不需要先安装 npm 依赖。
 
 ```bash
-git clone https://github.com/Tianyuchuanmei2026/yuge-course-motion.git
-cd yuge-course-motion
+git clone https://github.com/Tianyuchuanmei2026/tianyu-course-motion.git
+cd tianyu-course-motion
 npm run serve
 ```
 
