@@ -1,0 +1,40 @@
+雨哥 AI 通识课示例：个人学习与本地技术验证许可 v1.0
+Yuge AI Literacy Lesson: Personal Study and Local Evaluation License v1.0
+
+本目录提供第一讲的教学内容及实现，帮助读者学习课程制作方法。它不属于 MIT
+工具代码的授权范围，也不是 OSI 意义上的开源内容许可。
+
+允许：
+1. 在发布者提供的页面观看示例；下载、克隆并在自己的设备上运行、研究和修改
+   本示例，用于个人学习或内部技术评估。
+2. 通过 GitHub 平台功能查看并创建 fork，保留本许可与原始署名。贡献讨论中
+   可提供说明问题所必需的片段。GitHub 平台条款依法授予的权利不受本声明排除。
+3. 分享指向发布者仓库或示例页面的链接。
+
+未经另行书面许可，不授予以下权利：
+1. 将本目录内受保护的课程讲稿、具体场景表达、配音文件、视频、封面或素材，
+   作为独立课程、素材包、下载镜像或教学产品进行再发布、改编传播或销售。
+2. 将上述内容通过改名、换配音、换包装等方式作为自己的课程发布，或用于生成
+   实质复制本课程受保护表达的替代产品。
+3. 使用雨哥的身份、人物形象或品牌暗示未经授予的官方授权、合作或背书。
+
+上述限制不涉及公共知识、事实、思想和方法本身，不限制任何人独立讲解相同
+知识，也不限制使用仓库中 MIT 工具代码制作和销售自己的原创课程。法律允许
+无需许可的使用不受本许可排除。第三方权利和既有许可继续适用；此处不授权
+使用任何第三方的语音服务账号、音色模型、字体或商标。
+
+保留发布者及其他权利人依法享有的相关权利。材料按现状提供，不保证适合任何
+特定用途。需要超出以上范围使用时，请通过发布者网站联系取得许可：
+https://tianyuxuezhang.com/
+
+English summary (the Chinese terms above govern this lesson-content grant):
+You may view, clone, run, inspect and modify this example for personal study
+or internal technical evaluation. GitHub forks through platform functionality are
+permitted with attribution and this notice retained. Rights granted by the
+applicable GitHub terms are not excluded by this notice. Do not republish,
+repackage or sell the protected lesson content, assets or rendered course,
+or market a fork as a separate course or download mirror without additional
+permission. Linking to the official demo is welcome. This does not restrict
+independently teaching the same ideas, statutory exceptions, or using the
+MIT tools to create your own original commercial lessons. No endorsement,
+likeness, trademark or third-party service rights are granted.

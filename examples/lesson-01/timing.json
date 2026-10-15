@@ -1,0 +1,1296 @@
+{
+  "duration_s": 236.11,
+  "voice_delay_s": 0.3,
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0,
+      "end": 29.61,
+      "captions": [
+        {
+          "text": "我是雨哥的数字助理晓晓。",
+          "start": 0.3,
+          "end": 2.174416,
+          "relative": false
+        },
+        {
+          "text": "咱们先看一件身边的事：",
+          "start": 2.613625,
+          "end": 4.233957,
+          "relative": false
+        },
+        {
+          "text": "闹钟每天自己响，",
+          "start": 4.581208,
+          "end": 5.935375,
+          "relative": false
+        },
+        {
+          "text": "地图自己找路线，",
+          "start": 6.1899999999999995,
+          "end": 7.4284159999999995,
+          "relative": false
+        },
+        {
+          "text": "客服自己回留言，",
+          "start": 7.671499999999999,
+          "end": 8.967790999999998,
+          "relative": false
+        },
+        {
+          "text": "这些都算AI吗？",
+          "start": 9.187666,
+          "end": 10.553416000000002,
+          "relative": false
+        },
+        {
+          "text": "光看“自己会动”，",
+          "start": 11.074250000000001,
+          "end": 12.173791000000001,
+          "relative": false
+        },
+        {
+          "text": "还分不出来。",
+          "start": 12.393708000000002,
+          "end": 13.238625,
+          "relative": false
+        },
+        {
+          "text": "闹钟可能只是到了时间就响；",
+          "start": 13.759458,
+          "end": 15.831207000000001,
+          "relative": false
+        },
+        {
+          "text": "地图要比较道路；",
+          "start": 16.166833,
+          "end": 17.439999,
+          "relative": false
+        },
+        {
+          "text": "客服还得处理不同说法。",
+          "start": 17.729333,
+          "end": 19.639083000000003,
+          "relative": false
+        },
+        {
+          "text": "这一讲就拿它们当例子，",
+          "start": 20.1715,
+          "end": 22.023333,
+          "relative": false
+        },
+        {
+          "text": "看看系统收到了什么、",
+          "start": 22.312666,
+          "end": 23.747875,
+          "relative": false
+        },
+        {
+          "text": "怎么处理、",
+          "start": 23.990916000000002,
+          "end": 24.696957,
+          "relative": false
+        },
+        {
+          "text": "最后给了什么结果。",
+          "start": 24.916833,
+          "end": 26.189999,
+          "relative": false
+        },
+        {
+          "text": "先把事情看明白，",
+          "start": 26.722416000000003,
+          "end": 27.937666,
+          "relative": false
+        },
+        {
+          "text": "术语就好理解了。",
+          "start": 28.18075,
+          "end": 29.442291,
+          "relative": false
+        }
+      ],
+      "cues": [
+        {
+          "id": "cover-alarm",
+          "start": 4.581208,
+          "end": 5.181208,
+          "relative": false
+        },
+        {
+          "id": "cover-map",
+          "start": 6.1899999999999995,
+          "end": 6.789999999999999,
+          "relative": false
+        },
+        {
+          "id": "cover-service",
+          "start": 7.671499999999999,
+          "end": 8.2715,
+          "relative": false
+        },
+        {
+          "id": "cover-question",
+          "start": 9.187666,
+          "end": 9.787666,
+          "relative": false
+        },
+        {
+          "id": "cover-mechanism",
+          "start": 14.801125,
+          "end": 15.401125,
+          "relative": false
+        },
+        {
+          "id": "cover-search",
+          "start": 16.166833,
+          "end": 16.766833,
+          "relative": false
+        },
+        {
+          "id": "cover-meaning",
+          "start": 17.729333,
+          "end": 18.329333000000002,
+          "relative": false
+        },
+        {
+          "id": "cover-observe",
+          "start": 22.312666,
+          "end": 22.912666,
+          "relative": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 29.61,
+      "end": 56.120000000000005,
+      "captions": [
+        {
+          "text": "比如你把闹钟设在晚上八点，",
+          "start": 29.61,
+          "end": 31.911124,
+          "relative": false
+        },
+        {
+          "text": "它到了八点就响，",
+          "start": 32.154166000000004,
+          "end": 33.288416,
+          "relative": false
+        },
+        {
+          "text": "这叫固定提醒。",
+          "start": 33.543041,
+          "end": 34.665749,
+          "relative": false
+        },
+        {
+          "text": "地图拿到道路连接和通行成本，",
+          "start": 35.194458,
+          "end": 37.601832,
+          "relative": false
+        },
+        {
+          "text": "要比较哪些路能走、",
+          "start": 37.891208,
+          "end": 39.280125,
+          "relative": false
+        },
+        {
+          "text": "走哪条更合适。",
+          "start": 39.465291,
+          "end": 40.680583,
+          "relative": false
+        },
+        {
+          "text": "客服收到“东西还没到”，",
+          "start": 41.201375,
+          "end": 42.729166,
+          "relative": false
+        },
+        {
+          "text": "可能要判断这是物流问题。",
+          "start": 42.995374999999996,
+          "end": 45.020832999999996,
+          "relative": false
+        },
+        {
+          "text": "它们都能自动运行，",
+          "start": 45.541666,
+          "end": 46.942124,
+          "relative": false
+        },
+        {
+          "text": "但做事的办法不同。",
+          "start": 47.173625,
+          "end": 48.562499,
+          "relative": false
+        },
+        {
+          "text": "自动化这个词，",
+          "start": 49.094916,
+          "end": 50.136583,
+          "relative": false
+        },
+        {
+          "text": "先告诉我们哪些动作不用人做；",
+          "start": 50.402791,
+          "end": 52.671333000000004,
+          "relative": false
+        },
+        {
+          "text": "至于用了什么AI能力，",
+          "start": 53.030083000000005,
+          "end": 54.812499,
+          "relative": false
+        },
+        {
+          "text": "还得往里面看。",
+          "start": 55.00925,
+          "end": 55.958332999999996,
+          "relative": false
+        }
+      ],
+      "cues": [
+        {
+          "id": "clock-base",
+          "start": 30.464333,
+          "end": 31.064333,
+          "relative": false
+        },
+        {
+          "id": "clock-before",
+          "start": 30.811583,
+          "end": 31.411583,
+          "relative": false
+        },
+        {
+          "id": "clock-after",
+          "start": 32.293041,
+          "end": 32.893041,
+          "relative": false
+        },
+        {
+          "id": "clock-rings",
+          "start": 33.543041,
+          "end": 34.143041000000004,
+          "relative": false
+        },
+        {
+          "id": "route-map",
+          "start": 35.194458,
+          "end": 35.794458,
+          "relative": false
+        },
+        {
+          "id": "route-costs",
+          "start": 36.814833,
+          "end": 37.414833,
+          "relative": false
+        },
+        {
+          "id": "route-choice",
+          "start": 39.465291,
+          "end": 40.065291,
+          "relative": false
+        },
+        {
+          "id": "category-message",
+          "start": 41.201375,
+          "end": 41.801375,
+          "relative": false
+        },
+        {
+          "id": "category-in",
+          "start": 42.995374999999996,
+          "end": 43.595375,
+          "relative": false
+        },
+        {
+          "id": "category-model",
+          "start": 43.354166,
+          "end": 43.954166,
+          "relative": false
+        },
+        {
+          "id": "category-out",
+          "start": 43.956,
+          "end": 44.556000000000004,
+          "relative": false
+        },
+        {
+          "id": "category-result",
+          "start": 44.210666,
+          "end": 44.810666000000005,
+          "relative": false
+        },
+        {
+          "id": "category-conclude",
+          "start": 47.173625,
+          "end": 47.773625,
+          "relative": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 56.120000000000005,
+      "end": 85.25,
+      "captions": [
+        {
+          "text": "接着看客服怎么接住一句话。",
+          "start": 56.120000000000005,
+          "end": 58.351666,
+          "relative": false
+        },
+        {
+          "text": "先把声音听成文字，",
+          "start": 58.88037500000001,
+          "end": 60.37345800000001,
+          "relative": false
+        },
+        {
+          "text": "这是识别，",
+          "start": 60.58175000000001,
+          "end": 61.368791,
+          "relative": false
+        },
+        {
+          "text": "也可以叫感知；",
+          "start": 61.542416,
+          "end": 62.54933200000001,
+          "relative": false
+        },
+        {
+          "text": "再判断客户在问什么；",
+          "start": 62.908166,
+          "end": 64.47066600000001,
+          "relative": false
+        },
+        {
+          "text": "最后写出回复，",
+          "start": 64.79470800000001,
+          "end": 65.975291,
+          "relative": false
+        },
+        {
+          "text": "或者选择下一步。",
+          "start": 66.183625,
+          "end": 67.43362400000001,
+          "relative": false
+        },
+        {
+          "text": "这些位置能帮我们看流程。",
+          "start": 67.96600000000001,
+          "end": 70.08408200000001,
+          "relative": false
+        },
+        {
+          "text": "但一个AI系统可以只负责其中一段，",
+          "start": 70.604916,
+          "end": 73.44054100000001,
+          "relative": false
+        },
+        {
+          "text": "比如只把录音转成文字。它也不用一定会",
+          "start": 73.76462500000001,
+          "end": 77.32941600000001,
+          "relative": false
+        },
+        {
+          "text": "聊天。实际产品还会接上普通程序，图上",
+          "start": 77.34100000000001,
+          "end": 81.48454100000001,
+          "relative": false
+        },
+        {
+          "text": "的顺序只是帮助理解，不能套在所有系统上。",
+          "start": 81.48454100000001,
+          "end": 85.118791,
+          "relative": false
+        }
+      ],
+      "cues": [
+        {
+          "id": "voice",
+          "start": 58.88037500000001,
+          "end": 59.48037500000001,
+          "relative": false
+        },
+        {
+          "id": "voice-route",
+          "start": 59.100291000000006,
+          "end": 59.70029100000001,
+          "relative": false
+        },
+        {
+          "id": "transcript",
+          "start": 60.58175000000001,
+          "end": 61.18175000000001,
+          "relative": false
+        },
+        {
+          "id": "intent-route",
+          "start": 62.908166,
+          "end": 63.508166,
+          "relative": false
+        },
+        {
+          "id": "intent",
+          "start": 63.371125000000006,
+          "end": 63.97112500000001,
+          "relative": false
+        },
+        {
+          "id": "reply-route",
+          "start": 64.79470800000001,
+          "end": 65.39470800000001,
+          "relative": false
+        },
+        {
+          "id": "reply",
+          "start": 65.50075000000001,
+          "end": 66.10075,
+          "relative": false
+        },
+        {
+          "id": "single-stage",
+          "start": 71.982208,
+          "end": 72.582208,
+          "relative": false
+        },
+        {
+          "id": "ordinary-program",
+          "start": 78.347958,
+          "end": 78.947958,
+          "relative": false
+        },
+        {
+          "id": "flow-example",
+          "start": 81.17204100000001,
+          "end": 81.772041,
+          "relative": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 85.25,
+      "end": 116.78999999999999,
+      "captions": [
+        {
+          "text": "要把“想退货”分到退货问题里",
+          "start": 85.25,
+          "end": 87.620541,
+          "relative": false
+        },
+        {
+          "text": "可以让人写条件：",
+          "start": 87.724708,
+          "end": 88.858999,
+          "relative": false
+        },
+        {
+          "text": "看见这个词，就放进这一类。",
+          "start": 89.206208,
+          "end": 91.231666,
+          "relative": false
+        },
+        {
+          "text": "也可以给系统看许多已经分好类的留言",
+          "start": 91.748791,
+          "end": 94.792791,
+          "relative": false
+        },
+        {
+          "text": "让它通过训练调整参数。",
+          "start": 94.885375,
+          "end": 96.714083,
+          "relative": false
+        },
+        {
+          "text": "等一下，",
+          "start": 97.2465,
+          "end": 97.767291,
+          "relative": false
+        },
+        {
+          "text": "这两种办法容易混",
+          "start": 98.07983300000001,
+          "end": 99.422416,
+          "relative": false
+        },
+        {
+          "text": "咱们分开看。",
+          "start": 99.503416,
+          "end": 100.394625,
+          "relative": false
+        },
+        {
+          "text": "这类从例子里学的办法，叫机器学习。",
+          "start": 100.915458,
+          "end": 104.00575,
+          "relative": false
+        },
+        {
+          "text": "地图找路线还可以用人设计的搜索算法。",
+          "start": 104.526583,
+          "end": 107.454832,
+          "relative": false
+        },
+        {
+          "text": "你看，AI里面有多种做法",
+          "start": 107.987208,
+          "end": 110.348333,
+          "relative": false
+        },
+        {
+          "text": "机器学习是重要的一类；",
+          "start": 110.440916,
+          "end": 112.084457,
+          "relative": false
+        },
+        {
+          "text": "简单闹钟会自动响",
+          "start": 112.258041,
+          "end": 113.843707,
+          "relative": false
+        },
+        {
+          "text": "也不能仅凭这一点判断它用了AI。",
+          "start": 113.936291,
+          "end": 116.66775,
+          "relative": false
+        }
+      ],
+      "cues": [
+        {
+          "id": "rule-head",
+          "start": 87.724708,
+          "end": 88.324708,
+          "relative": false
+        },
+        {
+          "id": "rule-condition",
+          "start": 89.206208,
+          "end": 89.806208,
+          "relative": false
+        },
+        {
+          "id": "rule-arrow",
+          "start": 90.247875,
+          "end": 90.84787499999999,
+          "relative": false
+        },
+        {
+          "id": "rule-result",
+          "start": 90.768708,
+          "end": 91.368708,
+          "relative": false
+        },
+        {
+          "id": "rule-defined",
+          "start": 90.968708,
+          "end": 91.568708,
+          "relative": false
+        },
+        {
+          "id": "learn-head",
+          "start": 91.748791,
+          "end": 92.34879099999999,
+          "relative": false
+        },
+        {
+          "id": "learn-examples",
+          "start": 92.813625,
+          "end": 93.413625,
+          "relative": false
+        },
+        {
+          "id": "learn-enter",
+          "start": 95.14,
+          "end": 95.74,
+          "relative": false
+        },
+        {
+          "id": "learn-model",
+          "start": 95.834458,
+          "end": 96.43445799999999,
+          "relative": false
+        },
+        {
+          "id": "learn-predict",
+          "start": 98.07983300000001,
+          "end": 98.679833,
+          "relative": false
+        },
+        {
+          "id": "learn-compare",
+          "start": 99.503416,
+          "end": 100.103416,
+          "relative": false
+        },
+        {
+          "id": "learn-feedback",
+          "start": 100.915458,
+          "end": 101.515458,
+          "relative": false
+        },
+        {
+          "id": "learn-adjust",
+          "start": 102.964083,
+          "end": 103.564083,
+          "relative": false
+        },
+        {
+          "id": "search-final",
+          "start": 104.526583,
+          "end": 105.126583,
+          "relative": false
+        },
+        {
+          "id": "method-family",
+          "start": 107.987208,
+          "end": 108.58720799999999,
+          "relative": false
+        },
+        {
+          "id": "alarm-boundary",
+          "start": 112.258041,
+          "end": 112.858041,
+          "relative": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 116.78999999999999,
+      "end": 145.93,
+      "captions": [
+        {
+          "text": "假设客服先判断了客户的问题",
+          "start": 116.78999999999999,
+          "end": 119.12583299999999,
+          "relative": false
+        },
+        {
+          "text": "再由程序把回复存下来",
+          "start": 119.21841599999999,
+          "end": 121.081874,
+          "relative": false
+        },
+        {
+          "text": "最后请人确认后发送。",
+          "start": 121.17445799999999,
+          "end": 122.73695799999999,
+          "relative": false
+        },
+        {
+          "text": "这个流程里，",
+          "start": 123.265666,
+          "end": 124.08741599999999,
+          "relative": false
+        },
+        {
+          "text": "AI、普通程序和人可以一起工作。",
+          "start": 124.342041,
+          "end": 127.154541,
+          "relative": false
+        },
+        {
+          "text": "自动化看的是多少步骤由系统执行",
+          "start": 127.68695799999999,
+          "end": 130.44158299999998,
+          "relative": false
+        },
+        {
+          "text": "AI能力看的是判断和处理靠什么办法。",
+          "start": 130.534166,
+          "end": 133.624458,
+          "relative": false
+        },
+        {
+          "text": "全部自动执行",
+          "start": 134.156833,
+          "end": 135.349,
+          "relative": false
+        },
+        {
+          "text": "不代表全部判断正确。",
+          "start": 135.45316599999998,
+          "end": 137.166124,
+          "relative": false
+        },
+        {
+          "text": "一个聊天窗口",
+          "start": 137.6985,
+          "end": 138.786499,
+          "relative": false
+        },
+        {
+          "text": "也不能证明里面每一步都是大模型。",
+          "start": 138.87908299999998,
+          "end": 141.517958,
+          "relative": false
+        },
+        {
+          "text": "要了解它，还得看流程",
+          "start": 142.038791,
+          "end": 143.844374,
+          "relative": false
+        },
+        {
+          "text": "技术说明和实际结果。",
+          "start": 143.85591599999998,
+          "end": 145.76566599999998,
+          "relative": false
+        }
+      ],
+      "cues": [
+        {
+          "id": "combined-input",
+          "start": 116.78999999999999,
+          "end": 117.38999999999999,
+          "relative": false
+        },
+        {
+          "id": "combined-one",
+          "start": 117.84112499999999,
+          "end": 118.44112499999999,
+          "relative": false
+        },
+        {
+          "id": "ai-judgement",
+          "start": 118.26933299999999,
+          "end": 118.86933299999998,
+          "relative": false
+        },
+        {
+          "id": "combined-two",
+          "start": 119.21841599999999,
+          "end": 119.81841599999998,
+          "relative": false
+        },
+        {
+          "id": "program-save",
+          "start": 119.99387499999999,
+          "end": 120.59387499999998,
+          "relative": false
+        },
+        {
+          "id": "combined-three",
+          "start": 121.17445799999999,
+          "end": 121.77445799999998,
+          "relative": false
+        },
+        {
+          "id": "human-confirm",
+          "start": 121.78787499999999,
+          "end": 122.38787499999998,
+          "relative": false
+        },
+        {
+          "id": "confirm-stamp",
+          "start": 122.308708,
+          "end": 122.90870799999999,
+          "relative": false
+        },
+        {
+          "id": "automation-focus",
+          "start": 127.68695799999999,
+          "end": 128.28695799999997,
+          "relative": false
+        },
+        {
+          "id": "ai-focus",
+          "start": 134.156833,
+          "end": 134.756833,
+          "relative": false
+        },
+        {
+          "id": "chat-window",
+          "start": 137.6985,
+          "end": 138.2985,
+          "relative": false
+        },
+        {
+          "id": "evidence-focus",
+          "start": 143.85591599999998,
+          "end": 144.45591599999997,
+          "relative": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 145.93,
+      "end": 177.95000000000002,
+      "captions": [
+        {
+          "text": "先示范怎么写身份卡。",
+          "start": 145.93,
+          "end": 147.792874,
+          "relative": false
+        },
+        {
+          "text": "拿闹钟来说：",
+          "start": 148.321583,
+          "end": 149.282207,
+          "relative": false
+        },
+        {
+          "text": "它收到当前时间",
+          "start": 149.606291,
+          "end": 150.96045800000002,
+          "relative": false
+        },
+        {
+          "text": "要在晚上八点提醒",
+          "start": 151.0415,
+          "end": 152.372499,
+          "relative": false
+        },
+        {
+          "text": "办法是到点响铃。",
+          "start": 152.384083,
+          "end": 153.842374,
+          "relative": false
+        },
+        {
+          "text": "再看地图卡：",
+          "start": 154.374833,
+          "end": 155.289166,
+          "relative": false
+        },
+        {
+          "text": "它收到道路和通行成本",
+          "start": 155.566958,
+          "end": 157.395666,
+          "relative": false
+        },
+        {
+          "text": "要找路线",
+          "start": 157.476666,
+          "end": 158.101666,
+          "relative": false
+        },
+        {
+          "text": "卡片写明用搜索。",
+          "start": 158.11325,
+          "end": 159.768333,
+          "relative": false
+        },
+        {
+          "text": "第三张是用分好类的留言训练分类模型。",
+          "start": 160.30075,
+          "end": 163.691958,
+          "relative": false
+        },
+        {
+          "text": "到这儿先缓一下",
+          "start": 164.224333,
+          "end": 165.32387400000002,
+          "relative": false
+        },
+        {
+          "text": "看看这三张卡。",
+          "start": 165.4165,
+          "end": 166.458124,
+          "relative": false
+        },
+        {
+          "text": "现在暂停三分钟",
+          "start": 166.979,
+          "end": 168.390999,
+          "relative": false
+        },
+        {
+          "text": "照这个写法补齐三张卡；",
+          "start": 168.39100000000002,
+          "end": 170.347041,
+          "relative": false
+        },
+        {
+          "text": "没有证据的内部办法",
+          "start": 170.71741600000001,
+          "end": 172.083124,
+          "relative": false
+        },
+        {
+          "text": "写“未知”就行。",
+          "start": 172.17575,
+          "end": 173.20583200000002,
+          "relative": false
+        },
+        {
+          "text": "我们练的是把系统讲具体",
+          "start": 173.726666,
+          "end": 175.798416,
+          "relative": false
+        },
+        {
+          "text": "不给商业产品硬贴标签。",
+          "start": 175.89100000000002,
+          "end": 177.777625,
+          "relative": false
+        }
+      ],
+      "cues": [
+        {
+          "id": "identity-base",
+          "start": 145.93,
+          "end": 146.53,
+          "relative": false
+        },
+        {
+          "id": "identity-input",
+          "start": 149.606291,
+          "end": 150.206291,
+          "relative": false
+        },
+        {
+          "id": "identity-goal",
+          "start": 151.0415,
+          "end": 151.6415,
+          "relative": false
+        },
+        {
+          "id": "identity-method",
+          "start": 152.384083,
+          "end": 152.984083,
+          "relative": false
+        },
+        {
+          "id": "identity-known",
+          "start": 153.424708,
+          "end": 154.024708,
+          "relative": false
+        },
+        {
+          "id": "practice-overlay",
+          "start": 154.374833,
+          "end": 154.974833,
+          "relative": false
+        },
+        {
+          "id": "practice-map",
+          "start": 155.566958,
+          "end": 156.166958,
+          "relative": false
+        },
+        {
+          "id": "practice-class",
+          "start": 160.30075,
+          "end": 160.90075,
+          "relative": false
+        },
+        {
+          "id": "practice-pause",
+          "start": 166.979,
+          "end": 167.579,
+          "relative": false
+        },
+        {
+          "id": "practice-unknown",
+          "start": 170.71741600000001,
+          "end": 171.317416,
+          "relative": false
+        },
+        {
+          "id": "practice-boundary",
+          "start": 175.89100000000002,
+          "end": 176.491,
+          "relative": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 177.95000000000002,
+      "end": 206.66000000000003,
+      "captions": [
+        {
+          "text": "设想两个都叫“AI客服”的系统。",
+          "start": 177.95000000000002,
+          "end": 180.39154100000002,
+          "relative": false
+        },
+        {
+          "text": "甲只匹配预设问题，给固定答案；",
+          "start": 180.92029100000002,
+          "end": 183.478125,
+          "relative": false
+        },
+        {
+          "text": "乙识别客户意思，再找资料写回答。",
+          "start": 183.79066600000002,
+          "end": 186.591583,
+          "relative": false
+        },
+        {
+          "text": "甲在固定问题上可能更稳定，",
+          "start": 187.11241600000002,
+          "end": 189.33462500000002,
+          "relative": false
+        },
+        {
+          "text": "乙可能听懂更多说法，",
+          "start": 189.60083300000002,
+          "end": 191.11704100000003,
+          "relative": false
+        },
+        {
+          "text": "也多了找错资料、",
+          "start": 191.371666,
+          "end": 192.575374,
+          "relative": false
+        },
+        {
+          "text": "写错内容的机会。",
+          "start": 192.76054100000002,
+          "end": 193.99899900000003,
+          "relative": false
+        },
+        {
+          "text": "选哪个，",
+          "start": 194.53137500000003,
+          "end": 195.21425000000002,
+          "relative": false
+        },
+        {
+          "text": "要看你的问题、",
+          "start": 195.48045800000003,
+          "end": 196.45270800000003,
+          "relative": false
+        },
+        {
+          "text": "回复依据和转人工条件。",
+          "start": 196.637875,
+          "end": 198.62858200000002,
+          "relative": false
+        },
+        {
+          "text": "名字一样，",
+          "start": 199.161,
+          "end": 199.85545800000003,
+          "relative": false
+        },
+        {
+          "text": "适用范围可以差很多。",
+          "start": 200.121666,
+          "end": 201.626291,
+          "relative": false
+        },
+        {
+          "text": "这是教学情境，",
+          "start": 202.15870800000002,
+          "end": 203.292957,
+          "relative": false
+        },
+        {
+          "text": "不能拿它替某个真实产品",
+          "start": 203.559166,
+          "end": 205.445749,
+          "relative": false
+        },
+        {
+          "text": "作技术鉴定。",
+          "start": 205.52675000000002,
+          "end": 206.47583200000003,
+          "relative": false
+        }
+      ],
+      "cues": [
+        {
+          "id": "serviceA",
+          "start": 180.92029100000002,
+          "end": 181.52029100000001,
+          "relative": false
+        },
+        {
+          "id": "serviceB",
+          "start": 183.79066600000002,
+          "end": 184.390666,
+          "relative": false
+        },
+        {
+          "id": "B-intent",
+          "start": 183.92954100000003,
+          "end": 184.52954100000002,
+          "relative": false
+        },
+        {
+          "id": "B-retrieve",
+          "start": 185.28370800000002,
+          "end": 185.883708,
+          "relative": false
+        },
+        {
+          "id": "B-generate",
+          "start": 185.943416,
+          "end": 186.543416,
+          "relative": false
+        },
+        {
+          "id": "case-pair",
+          "start": 187.11241600000002,
+          "end": 187.71241600000002,
+          "relative": false
+        },
+        {
+          "id": "A-stability",
+          "start": 188.73279100000002,
+          "end": 189.33279100000001,
+          "relative": false
+        },
+        {
+          "id": "B-risk",
+          "start": 191.77675000000002,
+          "end": 192.37675000000002,
+          "relative": false
+        },
+        {
+          "id": "choice-condition",
+          "start": 196.637875,
+          "end": 197.237875,
+          "relative": false
+        },
+        {
+          "id": "case-boundary",
+          "start": 202.15870800000002,
+          "end": 202.758708,
+          "relative": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 206.66000000000003,
+      "end": 236.11,
+      "captions": [
+        {
+          "text": "回头看开头那三个系统，",
+          "start": 206.66000000000003,
+          "end": 208.42029100000002,
+          "relative": false
+        },
+        {
+          "text": "现在你可以把它们讲具体了：",
+          "start": 208.73279100000002,
+          "end": 210.51516600000002,
+          "relative": false
+        },
+        {
+          "text": "闹钟按时间响，",
+          "start": 210.86241600000002,
+          "end": 211.97349900000003,
+          "relative": false
+        },
+        {
+          "text": "地图按道路找路线，",
+          "start": 212.205,
+          "end": 213.67491600000002,
+          "relative": false
+        },
+        {
+          "text": "分类模型从留言例子里学习。",
+          "start": 213.89112500000002,
+          "end": 216.33324900000002,
+          "relative": false
+        },
+        {
+          "text": "以后看到新产品，也先问它拿到什么、交",
+          "start": 216.86566600000003,
+          "end": 220.11216600000003,
+          "relative": false
+        },
+        {
+          "text": "出什么、靠什么办法，再看哪些条件还没",
+          "start": 220.11216600000003,
+          "end": 223.300832,
+          "relative": false
+        },
+        {
+          "text": "说明。自动化和AI可以组合，多种AI",
+          "start": 223.31241600000004,
+          "end": 227.340166,
+          "relative": false
+        },
+        {
+          "text": "路线也可以组合。下一讲，我们沿着这些",
+          "start": 227.35175000000004,
+          "end": 230.84712400000004,
+          "relative": false
+        },
+        {
+          "text": "例子看看技术怎样发展到今天，为什么旧",
+          "start": 230.85870800000004,
+          "end": 234.37720800000002,
+          "relative": false
+        },
+        {
+          "text": "方法还在发挥作用。",
+          "start": 234.37720800000002,
+          "end": 235.95129100000003,
+          "relative": false
+        }
+      ],
+      "cues": [
+        {
+          "id": "recap-clock",
+          "start": 210.86241600000002,
+          "end": 211.46241600000002,
+          "relative": false
+        },
+        {
+          "id": "recap-map",
+          "start": 212.205,
+          "end": 212.805,
+          "relative": false
+        },
+        {
+          "id": "recap-class",
+          "start": 213.89112500000002,
+          "end": 214.491125,
+          "relative": false
+        },
+        {
+          "id": "observe-input",
+          "start": 218.53233300000002,
+          "end": 219.13233300000002,
+          "relative": false
+        },
+        {
+          "id": "observe-goal",
+          "start": 219.94433300000003,
+          "end": 220.54433300000002,
+          "relative": false
+        },
+        {
+          "id": "observe-method",
+          "start": 220.89341600000003,
+          "end": 221.49341600000002,
+          "relative": false
+        },
+        {
+          "id": "observe-unknown",
+          "start": 222.3865,
+          "end": 222.9865,
+          "relative": false
+        },
+        {
+          "id": "next-lesson",
+          "start": 229.13416600000002,
+          "end": 229.73416600000002,
+          "relative": false
+        }
+      ]
+    }
+  ],
+  "progressMapping": {
+    "new_prefix_s": 2.3333333333333335,
+    "old_cut_s": 1.3333333333333333,
+    "delta_s": 1.0,
+    "original_visual_duration_s": 235.11
+  }
+}
