@@ -1,0 +1,28 @@
+LICENSING SCOPE / 授权范围
+
+This repository contains materials under different licenses. There is no
+single blanket license for all repository content.
+
+1. The code in src/, scripts/ and tests/, the root index.html, package.json,
+   package-lock.json, .gitignore, and the original documentation in README.md
+   and docs/ are licensed under the MIT License in LICENSES/MIT.txt, unless a
+   file explicitly states otherwise.
+
+2. All files in examples/lesson-01/, including scene code that expresses the
+   specific lesson, narration text, timing data, audio and cover artwork, are
+   subject to examples/lesson-01/LICENSE.txt. These lesson materials are NOT
+   covered by the MIT grant. They are made available for personal learning,
+   inspection and local technical evaluation, with the permissions and
+   limitations specified in that file.
+
+3. Third-party software and materials retain their own licenses. See
+   THIRD_PARTY_NOTICES.md. This repository does not grant rights that the
+   publisher does not own or have authority to license.
+
+4. No license to the publisher's name, likeness, trademarks or branding is
+   granted except as needed for truthful attribution. Do not imply endorsement
+   or authorization that has not been given.
+
+中文说明：通用工具按 MIT 开源；具体示例课程按单独的个人学习和本地验证许可
+提供；第三方内容按原有许可执行。完整付费课程不在本仓库内。独立讲解相同
+知识、使用开源工具制作自己的原创商业课程，不受示例课内容限制影响。
