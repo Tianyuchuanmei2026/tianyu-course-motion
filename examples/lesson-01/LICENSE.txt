@@ -1,5 +1,5 @@
 雨哥 AI 通识课示例：个人学习与本地技术验证许可 v1.0
-Yuge AI Literacy Lesson: Personal Study and Local Evaluation License v1.0
+Tianyu AI Literacy Lesson: Personal Study and Local Evaluation License v1.0
 
 本目录提供第一讲的教学内容及实现，帮助读者学习课程制作方法。它不属于 MIT
 工具代码的授权范围，也不是 OSI 意义上的开源内容许可。
